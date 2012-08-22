@@ -23,7 +23,7 @@ class Node
       }
 
    public void settime(double id)
-      { time = id; }
+      { time = id+4.; }
    
    public void setarr(double id)
    { arr = id; }
